@@ -123,7 +123,7 @@ brew "udunits"
 ## Security / network analysis
 brew "nmap"
 brew "ngrep"
-brew "aircrack-ng"
+# aircrack-ng omitted: Microsoft Defender quarantines it as HackTool:MacOS/AirCrack.C, so brew bundle can never satisfy it on a managed Mac.
 brew "hydra"
 brew "john"
 brew "sqlmap"
