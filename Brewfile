@@ -167,6 +167,10 @@ cask "karabiner-elements"
 cask "monitorcontrol"    # controls external monitor brightness and volume
 cask "rectangle"
 cask "slack"
+cask "dropbox"
+cask "endnote"           # reference manager
+cask "netlogo"           # agent-based modeling environment
+cask "r-app"             # CRAN R.app GUI; installs its own R in /Library/Frameworks, separate from the `r` formula above
 cask "virtualbox"
 cask "xquartz"
 cask "font-fira-code"
